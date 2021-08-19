@@ -12,4 +12,6 @@ target 'vk-junior' do
   pod 'SDWebImage'
   pod 'RealmSwift'
 
+# pod 'Moya'
+
 end
